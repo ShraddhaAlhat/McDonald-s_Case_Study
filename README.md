@@ -1,1 +1,3 @@
 # McDonald-s_Case_Study
+
+This case study aims to illustrate market segmentation analysis using a new empirical data set. Imagine you are McDonald’s, seeking to identify consumer segments with distinct perceptions of your brand. Understanding these differences in brand perception across market segments helps determine which segments to target and what messages to communicate. By focusing on segments with a positive perception, you can further strengthen these favorable views. Alternatively, by targeting segments with a negative perception, you can identify and address the key factors driving this negativity. This approach helps in modifying and improving the brand image among those consumers.
